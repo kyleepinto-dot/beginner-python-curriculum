@@ -22,7 +22,7 @@ else:
 # Count and print how many scores are 100.
 scores = [95, 100, 88, 100, 77, 92]
 
-count = names.count("100")
+count = scores.count(100)
 print('The number 100 appears:', count, "times")
 
 

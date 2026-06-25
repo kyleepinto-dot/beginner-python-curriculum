@@ -1,1 +1,1 @@
-from lesson3.homework import homework
+from lesson6.homework import problems
